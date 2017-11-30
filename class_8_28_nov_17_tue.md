@@ -13,8 +13,8 @@
 
 
 ## (3) Control flow:
-*(i) conditional> if, else, elsiv / switch
-*(ii) itarative/loop> while, for,  do while.
+* (i) conditional> if, else, else if / switch
+* (ii) itarative/loop> while, for,  do while.
 
 
 ## (4) function (this is a kind of task). 
